@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FFCF47-324C-4D7C-8889-6AFC8704100E}|Plugins.csproj|C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\posoperation_convertlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FFCF47-324C-4D7C-8889-6AFC8704100E}|Plugins.csproj|solutionrelative:posoperation_convertlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FFCF47-324C-4D7C-8889-6AFC8704100E}|Plugins.csproj|c:\\users\\tiago\\documents\\projetoslu\\plugins\\plugins\\posoperation_createlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FFCF47-324C-4D7C-8889-6AFC8704100E}|Plugins.csproj|solutionrelative:posoperation_createlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FFCF47-324C-4D7C-8889-6AFC8704100E}|Plugins.csproj|C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\posoperation_closeincident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FFCF47-324C-4D7C-8889-6AFC8704100E}|Plugins.csproj|solutionrelative:posoperation_closeincident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FFCF47-324C-4D7C-8889-6AFC8704100E}|Plugins.csproj|C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\preoperation_createinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FFCF47-324C-4D7C-8889-6AFC8704100E}|Plugins.csproj|solutionrelative:preoperation_createinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PosOperation_CloseIncident.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\PosOperation_CloseIncident.cs",
+              "RelativeDocumentMoniker": "PosOperation_CloseIncident.cs",
+              "ToolTip": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\PosOperation_CloseIncident.cs*",
+              "RelativeToolTip": "PosOperation_CloseIncident.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:44:28.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PosOperation_CreateLead.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\PosOperation_CreateLead.cs",
+              "RelativeDocumentMoniker": "PosOperation_CreateLead.cs",
+              "ToolTip": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\PosOperation_CreateLead.cs",
+              "RelativeToolTip": "PosOperation_CreateLead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:30:10.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PosOperation_ConvertLead.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\PosOperation_ConvertLead.cs",
+              "RelativeDocumentMoniker": "PosOperation_ConvertLead.cs",
+              "ToolTip": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\PosOperation_ConvertLead.cs",
+              "RelativeToolTip": "PosOperation_ConvertLead.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:59:56.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PreOperation_CreateInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\PreOperation_CreateInvoice.cs",
+              "RelativeDocumentMoniker": "PreOperation_CreateInvoice.cs",
+              "ToolTip": "C:\\Users\\tiago\\Documents\\ProjetosLu\\Plugins\\Plugins\\PreOperation_CreateInvoice.cs*",
+              "RelativeToolTip": "PreOperation_CreateInvoice.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:41:43.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

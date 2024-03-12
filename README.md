@@ -9,5 +9,5 @@ This repository contains two plugins developed in C# .NET for Dynamics 365 Sales
 
 ### Plugin 2: Lead Creation with Contact Information
 **Description:**
-- When a Sales Agent (one of the Roles of the solution= creates a lead with contact information, the system verifies if an existing contact with the same email address already exists in the system.
+- When a Sales Agent creates a lead with contact information, the system verifies if an existing contact with the same email address already exists in the system.
 - If an existing contact with the same email address is found, the lead record is associated with the existing contact.
